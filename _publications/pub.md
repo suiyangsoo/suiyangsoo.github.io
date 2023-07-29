@@ -1,11 +1,10 @@
 ---
-title: "Adversarial Learning of Distributional Reinforcement Learning"
+title: "Tensor Factorization Recommender Systems with Dependency"
 collection: publications
-#permalink: /publication/pub
+#permalink: /publication/tensor-factorization-with-dependency
 excerpt: ''
-date: 2023
-venue: 'Proceedings of the 40th International Conference on Machine Learning'
-paperurl: 'https://proceedings.mlr.press/v202/sui23a.html'
-citation: 'Y.Sui, Y.Huang, H.Zhu, F,Zhou. Adversarial Learning of Distributional Reinforcement Learning. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32783-32796, 2023.'
+date: 2022-03-29
+venue: 'Electronic Journal of Statistics'
+paperurl: 'https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Tensor-factorization-recommender-systems-with-dependency/10.1214/22-EJS1978.full'
+citation: 'Zhang, J., Yuan, Y., & Qu, A. (2022). Tensor factorization recommender systems with dependency. Electronic Journal of Statistics, 16, 2175-2205.'
 ---
-
