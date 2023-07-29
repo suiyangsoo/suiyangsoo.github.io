@@ -1,10 +1,4 @@
----
-title: "Adversarial Learning of Distributional Reinforcement Learning"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Accepted by ICML 2023'
-date: 2023-4-25
-venue: 'Journal 1'
-paperurl: 'https://openreview.net/profile?id=~Yang_Sui2'
----
- This paper is accepted by ICML 2023.
+Methodology
+======
+
+1. **Y.Sui**, Y.Huang, H.Zhu, F,Zhou. [Adversarial Learning of Distributional Reinforcement Learning.**](https://proceedings.mlr.press/v202/sui23a.html) *Proceedings of the 40th International Conference on Machine Learning*, PMLR 202:32783-32796, 2023.
