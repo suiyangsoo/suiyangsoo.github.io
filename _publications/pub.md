@@ -1,5 +1,5 @@
 ---
-title: "Tensor Factorization Recommender Systems with Dependency"
+title: "Tensor Factorization Recommender Systems with Dependencyddd"
 collection: publications
 #permalink: /publication/tensor-factorization-with-dependency
 excerpt: ''
